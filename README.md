@@ -4,4 +4,4 @@
 
 2. [Jupyter Notebook](https://github.com/YDaiRice/Houston_NewYork_Neigborhood_Investigation/tree/master/Code_JupyterNoteBook)
 3. [Full Report](https://github.com/YDaiRice/Houston_NewYork_Neigborhood_Investigation/blob/master/Investigation_of_Houston_NewYork_0319.pdf)
-4. [PPT]()
+4. [PPT](https://github.com/YDaiRice/Houston_NewYork_Neigborhood_Investigation/blob/master/Investigation%20of%20Houston%20and%20New%20York.pdf)
